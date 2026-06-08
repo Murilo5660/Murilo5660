@@ -37,7 +37,10 @@
 
 ## 📌 Projetos em destaque
 
-🔹 Em breve...
+| Nome do Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [**NextAgro**](https://github.com/caio180/NextAgro) | *Site informativo sobre o agronegócio brasileiro, abordando produção agrícola (café e açúcar), sustentabilidade, tecnologia no campo e problemas ambientais, com foco em educação e conscientização sobre o setor agro.* | `HTML/CSS/JS` `Node.js` `MySQL` |
+
 
 ---
 
