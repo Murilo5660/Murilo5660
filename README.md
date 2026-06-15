@@ -36,11 +36,10 @@
 ---
 
 ## 📌 Projetos em destaque
-
-| Nome do Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| [**NextAgro**](https://github.com/caio180/NextAgro) | *Site informativo sobre o agronegócio brasileiro, abordando produção agrícola (café e açúcar), sustentabilidade, tecnologia no campo e problemas ambientais, com foco em educação e conscientização sobre o setor agro.* | `HTML/CSS/JS` `Node.js` `MySQL` |
-
+| Nome do Projeto                                               | Descrição                                                                                                                                                                                                                                                                           | Stack                                                |
+| :------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------- |
+| [**NextAgro**](https://github.com/caio180/NextAgro)           | *Plataforma informativa sobre o agronegócio brasileiro, abordando produção agrícola (café e cana-de-açúcar), sustentabilidade, tecnologias no campo e impactos ambientais. Projeto com foco educacional e conscientização sobre o setor agro.*                                      | `HTML/CSS/JS` `Node.js` `MySQL`                      |
+| [**LogiTrack**](https://github.com/caio180/Dashboard_desafio) | *Dashboard logístico para monitoramento de entregas, análise de atrasos e priorização de operações. O sistema simula um ambiente de gestão logística com gráficos e tabelas dinâmicas, permitindo análise de desempenho por região e suporte à tomada de decisão baseada em dados.* | `HTML/CSS/JS` `Chart.js` `Node.js` `Express` `MySQL` |
 
 ---
 
